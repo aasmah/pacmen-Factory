@@ -5,4 +5,4 @@
 pacman moving / bouncining on screen.
 #pacman images goto extreme width and bounce back. 
 in future we could add a button to remove some pacman.
-## this is part of MiT licenceed bootcamp course.
+## this is part of MiT licenced bootcamp course.
