@@ -1,0 +1,22 @@
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+body {
+    background: #000;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Slabo 27px', serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+} // credits to 
+//https: //css-tricks.com/pac-man-in-css//
