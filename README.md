@@ -3,12 +3,14 @@
 callb back functions 
 onclick function
 #pacMan pics are added to the folder
-##pacMan add button 
+## add pacMan button 
 ![pacman browser page](https://user-images.githubusercontent.com/35153854/225759900-9243dafb-6e24-4b68-a2d6-97500d2637a1.JPG)
 
-##add button adds a pacman to the screen and start button makes it start moving in random direction.
-pacman moving / bouncining on screen.
-#pacman images goto extreme width and bounce back. 
+##add pacman button adds a pacman to the screen and start button makes it start moving.
+pacmans move / bounce on screen.
+#pacman images go to extreme width and bounce back. 
+# more time you click on start button they speed up.
+
 ##future task: we could add a button to remove some pacman. or a reset button to remove all pacman an startover.
 
 ##css file  changed  background color and moved buttons to the middle of the page.
