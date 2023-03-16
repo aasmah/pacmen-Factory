@@ -1,12 +1,15 @@
 # ##pacman-exercise
+
+callb back functions 
+onclick function
 #pacMan pics are added to the folder
 ##pacMan add button 
 
 ##add button adds a pacman to the screen and start button makes it start moving in random direction.
 pacman moving / bouncining on screen.
 #pacman images goto extreme width and bounce back. 
-future task: we could add a button to remove some pacman. or reset button
-
+##future task: we could add a button to remove some pacman. or a reset button to remove all pacman an startover.
+css file  changed  background color and moved buttons to the middle of the page.
 
 ##Copyright (c) 2023  MIT
 
