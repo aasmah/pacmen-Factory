@@ -9,7 +9,8 @@ onclick function
 pacman moving / bouncining on screen.
 #pacman images goto extreme width and bounce back. 
 ##future task: we could add a button to remove some pacman. or a reset button to remove all pacman an startover.
-css file  changed  background color and moved buttons to the middle of the page.
+
+##css file  changed  background color and moved buttons to the middle of the page.
 
 ##Copyright (c) 2023  MIT
 
@@ -19,4 +20,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+![browser page img](https://user-images.githubusercontent.com/35153854/225759604-2f3d37ec-aed9-4933-b06b-1a9f6673aa2b.jpeg)
 
