@@ -4,6 +4,7 @@ callb back functions
 onclick function
 #pacMan pics are added to the folder
 ##pacMan add button 
+![pacman browser page](https://user-images.githubusercontent.com/35153854/225759900-9243dafb-6e24-4b68-a2d6-97500d2637a1.JPG)
 
 ##add button adds a pacman to the screen and start button makes it start moving in random direction.
 pacman moving / bouncining on screen.
@@ -20,5 +21,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-![browser page img](https://user-images.githubusercontent.com/35153854/225759604-2f3d37ec-aed9-4933-b06b-1a9f6673aa2b.jpeg)
+!
 
