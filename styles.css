@@ -15,6 +15,10 @@ body {
     justify-content: center;
     align-items: center;
 }
+.dotted {
+    border-style: dotted;
+   border-width: thick;
+    }
 
 h1 {
     text-align: center;
