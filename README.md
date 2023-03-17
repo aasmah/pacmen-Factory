@@ -11,7 +11,7 @@ onclick function
 ##add pacman button adds a pacman to the screen and start button makes it start moving.
 pacmans move / bounce on screen.
 #pacman images go to extreme width and bounce back. 
-# ! more time you click on start button they speed up.
+# ! more you click on start button pacmen speed increases.
 
 ##future task: we could add a button to remove some pacman. or a reset button to remove all pacman an startover.
 
