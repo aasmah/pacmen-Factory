@@ -1,4 +1,4 @@
-# ##pacman-exercise
+# ##pacmen-exercise
 
 callb back functions 
 onclick function
