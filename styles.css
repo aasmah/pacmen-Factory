@@ -5,10 +5,14 @@ body {
     color: white;
  padding: 5px; 
    margin: 5px; 
+ height: 100vh;
     display: flex; 
 
     justify-content: center;
     align-items: center;
+}
+h1 {
+    text-align: center;
 }
 // credits to 
 //https: //css-tricks.com/pac-man-in-css//
