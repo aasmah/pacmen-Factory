@@ -1,24 +1,15 @@
-*,
-*:after,
-*:before {
-    box-sizing: border-box;
-}
+
 body {
-   
-    padding: 0;
-    margin: 0;
-   font-family: 'Slabo 27px', serif;
-    display: flex;
-    height: 100vh;
-   justify-content: center; */
+ border-style: dotted;
+   border-width: 7px;
+background: #000;
+    color: white;
+ padding: 3px; 
+   margin: 5px; 
+    display: flex; 
+
+    justify-content: center;
     align-items: center;
 }
-.dotted {
-    border-style: dotted;
-   border-width: thick;
-    }
-
-h1 {
-    text-align: center;
-} // credits to 
+// credits to 
 //https: //css-tricks.com/pac-man-in-css//
