@@ -14,6 +14,8 @@ pacmans move / bounce on screen.
 ##future task: we could add a button to remove some pacman. or a reset button to remove all pacman an startover.
 
 ##css file  changed  background color and moved buttons to the middle of the page.
+credits to 
+//https: //css-tricks.com/pac-man-in-css//
 
 ##Copyright (c) 2023  MIT
 
