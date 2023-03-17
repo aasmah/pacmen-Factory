@@ -4,7 +4,9 @@ callb back functions
 onclick function
 #pacMan pics are added to the folder
 ## add pacMan button 
-![pacman browser page](https://user-images.githubusercontent.com/35153854/225759900-9243dafb-6e24-4b68-a2d6-97500d2637a1.JPG)
+
+![brower look](https://user-images.githubusercontent.com/35153854/225783941-b46cf513-3133-40a6-b6c8-20b09a132186.JPG)
+
 
 ##add pacman button adds a pacman to the screen and start button makes it start moving.
 pacmans move / bounce on screen.
