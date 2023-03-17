@@ -5,7 +5,7 @@ onclick function
 #pacMan pics are added to the folder
 ## add pacMan button 
 
-![brower look](https://user-images.githubusercontent.com/35153854/225783941-b46cf513-3133-40a6-b6c8-20b09a132186.JPG)
+!https://github.com/aasmah/pacman-exercise/blob/main/brower%20look.JPG
 
 
 ##add pacman button adds a pacman to the screen and start button makes it start moving.
